@@ -1,0 +1,19 @@
+{
+  "name": "proposal-bot-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rushatgabhane/proposal-bot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rushatgabhane/proposal-bot/issues"
+  },
+  "homepage": "https://github.com/rushatgabhane/proposal-bot#readme",
+  "description": ""
+}
